@@ -24,5 +24,12 @@
             "Roumen\\Asset": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Roumen\\Asset\\AssetServiceProvider"
+            ]
+        }
+    },
     "minimum-stability": "stable"
 }
